@@ -1,0 +1,7 @@
+strategy,mean_comparisons,improve_vs_default
+default,204.893,0.0
+random_avg_24,76.251,62.78
+trained_phase1_fixed,19.775,90.35
+best_fixed,19.775,90.35
+worst_fixed,205.887,-0.48
+oracle_per_phase,19.775,90.35

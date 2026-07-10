@@ -1,0 +1,4 @@
+strategy,throughput_pps,avg_response_us,total_ms
+baseline,57548.9,17.3765,1737.65
+periodic,112845.6,8.8617,886.17
+ondemand,81917.6,12.2074,1220.74
